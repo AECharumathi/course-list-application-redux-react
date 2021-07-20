@@ -1,7 +1,7 @@
 # Course List Application
 
-Build a course list application with React, Reduxand Rest API.
- Follow the below mentioned steps to build the application 
+Build a course list application with React, Reduxand Rest API. \
+ Follow the below mentioned steps to build the application. \
  a)Make use of JSON server to create a static API (containing courses JSON data). Create a separate action for calling API. \
  b)Under each course there must be enquire button. \
  c)On clicking enquire button, a form should be displayed. Here user should be able to type their details. \
